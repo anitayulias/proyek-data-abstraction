@@ -1,0 +1,15 @@
+tabel,kolom,tipe_atribut,visual_channel
+system_logs,log_id,Nominal (identifier),tidak dipetakan
+system_logs,timestamp,Temporal (Quantitative),Position X
+system_logs,node_id,Nominal,Hue / label
+system_logs,severity_level,Ordinal,Luminance
+system_logs,metric_value,Quantitative,Position Y / Length
+network_nodes,node_id,Nominal,Node identity
+network_nodes,cluster_group,Nominal,Hue
+network_nodes,ip_address,Nominal,label
+network_nodes,latitude,Quantitative (spatial),Position Y
+network_nodes,longitude,Quantitative (spatial),Position X
+topology_edges,source_node,Nominal,Link start
+topology_edges,target_node,Nominal,Link end
+topology_edges,latency_ms,Quantitative,Link width
+topology_edges,packet_loss,Quantitative,Link color/width

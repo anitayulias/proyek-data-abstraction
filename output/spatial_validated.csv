@@ -1,0 +1,7 @@
+node_id,cluster_group,ip_address,latitude,longitude,wgs84_valid
+N01,Datacenter,10.0.0.1,-6.2088,106.8456,True
+N02,Datacenter,10.0.0.2,-6.9175,107.6191,True
+N03,Core-Gateway,10.0.1.1,-7.2575,112.7521,True
+N04,Core-Gateway,10.0.1.2,-7.7956,110.3695,True
+N05,Edge-A,10.0.2.1,3.5952,98.6722,True
+N06,Edge-A,10.0.2.2,-0.9471,100.4172,True

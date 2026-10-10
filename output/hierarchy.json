@@ -1,0 +1,38 @@
+{
+  "name": "Jaringan",
+  "children": [
+    {
+      "name": "Core-Gateway",
+      "children": [
+        {
+          "name": "N03"
+        },
+        {
+          "name": "N04"
+        }
+      ]
+    },
+    {
+      "name": "Datacenter",
+      "children": [
+        {
+          "name": "N01"
+        },
+        {
+          "name": "N02"
+        }
+      ]
+    },
+    {
+      "name": "Edge-A",
+      "children": [
+        {
+          "name": "N05"
+        },
+        {
+          "name": "N06"
+        }
+      ]
+    }
+  ]
+}
